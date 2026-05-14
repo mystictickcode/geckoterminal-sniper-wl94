@@ -1,4 +1,4 @@
-# 
+# high-frequency Arbitrage Bot for geckoterminal sniper bot | slippage-control & token-launch-monitoring is the best geckoterminal sniper bot, featuring slippage-control and
 
 
 
